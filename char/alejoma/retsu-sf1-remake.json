@@ -1,0 +1,9 @@
+{
+  "id": "sf1-retsu-remake",
+  "type": "char",
+  "url": "https://www.mediafire.com/file/pwr1lmwj4ds77go/sf-retsu.rar/file",
+  "subpath": "A-Retsu",
+  "def": "A-Retsu.def",
+  "author": "David Bazbal and Falchion22, edited by Alejoma",
+  "notes": "Extract the password-protected RAR manually with the public archive password retsupes6. Install only the specified character folder."
+}

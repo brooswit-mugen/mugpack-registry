@@ -1,11 +1,13 @@
 # MugPack Registry
 
-A catalog of M.U.G.E.N. character and stage packs for MugPacks. Each key in
-`registry.json` is an `author/package` reference. Each entry supplies the
-default install ID, content type, direct ZIP URL, archive subpath, and author
-credit. This repository stores metadata for the packs.
+Each character pack has one manifest at `char/<author>/<character>.json`.
+For example, `char/gm/ryu-sf3.json` supplies the install ID, archive source,
+and author credit for this MugPacks reference:
 
 ```yaml
 items:
   - pack: gm/ryu-sf3
 ```
+
+Use lowercase names for both path segments. To add or update a build, edit
+its manifest directly.

@@ -1,0 +1,9 @@
+{
+  "author": "Descolor",
+  "def": "0D_Zalazof.def",
+  "id": "guest-biff",
+  "subpath": "0D_Zalazof",
+  "type": "char",
+  "url": "https://mugen.doomjoshuaboy.com/resources/aleksey-zalazof-biff-slamkovich.1310/download",
+  "notes": "The upstream ZIP uses CP932 filenames. Extract with CP932 support before installing manually with current MugPacks versions."
+}

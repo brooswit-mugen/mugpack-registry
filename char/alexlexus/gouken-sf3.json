@@ -1,0 +1,9 @@
+{
+  "author": "Alexlexus (helpers Liger and Blood Riot)",
+  "def": "gouken.def",
+  "id": "sf3-gouken",
+  "notes": "For M.U.G.E.N. 1.1, disable the two invalid legacy trigger1 = null controllers in common1.cns by changing their triggers to 0. The archive contains the original, unpatched build.",
+  "subpath": "Gouken",
+  "type": "char",
+  "url": "https://www.mediafire.com/file/sc8jhdmofsc84p9/Gouken+(1).rar/file"
+}
