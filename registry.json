@@ -1,4 +1,13 @@
 {
+  "alexlexus/gouken-sf3": {
+    "id": "sf3-gouken",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/sc8jhdmofsc84p9/Gouken+(1).rar/file",
+    "subpath": "Gouken",
+    "def": "gouken.def",
+    "author": "Alexlexus (helpers Liger and Blood Riot)",
+    "notes": "For M.U.G.E.N. 1.1, disable the two invalid legacy trigger1 = null controllers in common1.cns by changing their triggers to 0. The archive contains the original, unpatched build."
+  },
   "failure/goutetsu-sf3": {
     "author": "Failure",
     "id": "sf3-goutetsu",
