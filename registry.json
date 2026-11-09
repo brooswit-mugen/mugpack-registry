@@ -40,6 +40,14 @@
     "type": "char",
     "url": "https://gamebanana.com/dl/791116"
   },
+  "beximus/haggar": {
+    "author": "Beximus",
+    "def": "Haggar.def",
+    "id": "guest-haggar",
+    "subpath": "",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/l2kd0ied6ac5c1l/haggar.zip/file"
+  },
   "beximus/ingrid-sfa": {
     "author": "Beximus",
     "def": "ingrid.def",
@@ -49,6 +57,14 @@
     "type": "char",
     "url": "https://www.mediafire.com/file/r8dtzbm349grng4/Ingrid_%5BBeximus%5D.zip/file"
   },
+  "cormano/abigail": {
+    "author": "Poochmaster and Chuchoryu, fixes by Cormano",
+    "def": "Abigail 2.def",
+    "id": "guest-abigail",
+    "subpath": "Abigail 2",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/7osa9kmai9hx1ys/Abigail+FIX+MMV.rar/file"
+  },
   "death-smile/juli-sfa": {
     "author": "Death Smile",
     "def": "Juli SFA.def",
@@ -56,6 +72,31 @@
     "subpath": "Juli SFA",
     "type": "char",
     "url": "https://gamebanana.com/dl/791111"
+  },
+  "descolor/biff": {
+    "author": "Descolor",
+    "def": "0D_Zalazof.def",
+    "id": "guest-biff",
+    "subpath": "0D_Zalazof",
+    "type": "char",
+    "url": "https://mugen.doomjoshuaboy.com/resources/aleksey-zalazof-biff-slamkovich.1310/download",
+    "notes": "The upstream ZIP uses CP932 filenames. Extract with CP932 support before installing manually with current MugPacks versions."
+  },
+  "descolor/black-widow": {
+    "author": "Descolor",
+    "def": "0D_Black_Widow.def",
+    "id": "guest-black-widow",
+    "subpath": "0D_Black_Widow",
+    "type": "char",
+    "url": "https://mugen.doomjoshuaboy.com/resources/black-widow.1259/download"
+  },
+  "diek-stiekem/poison": {
+    "author": "DivineWolf, edited by Diek Stiekem",
+    "def": "Poison.def",
+    "id": "guest-poison",
+    "subpath": "Poison",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/g1oltrpdfa7br6d/Poison.rar/file"
   },
   "ehnyd/dhalsim-sfa": {
     "author": "Ehnyd",
@@ -103,6 +144,14 @@
     "subpath": "Geki SF1",
     "type": "char",
     "url": "https://gamebanana.com/dl/790028"
+  },
+  "falchion22/gunloc": {
+    "author": "Falchion22",
+    "def": "Gunloc.def",
+    "id": "guest-gunloc",
+    "subpath": "Gunloc",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/w7mk3xr5ted23qg/Gunloc.zip/file"
   },
   "falchion22/joe-sf1": {
     "author": "Falchion22",
