@@ -23,6 +23,51 @@
     "type": "char",
     "url": "https://gamebanana.com/dl/791063"
   },
+  "alejoma/geki-sf1-remake": {
+    "id": "sf1-geki-remake",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/0azwz893kpdncyr/A-Geki.rar/file",
+    "subpath": "A-Geki",
+    "def": "A-geki.def",
+    "author": "David Bazbal, CWDEVINE and Falchion22, edited by Alejoma",
+    "notes": "Extract the password-protected RAR manually with the public archive password alejomapesgeki. Install only the specified character folder."
+  },
+  "alejoma/joe-sf1-remake": {
+    "id": "sf1-joe-remake",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/1nw5bx7o2s5uuzf/SF-Joe%26Duke-Edit+by+alejoma.rar/file",
+    "subpath": "A-Joe",
+    "def": "A-joe.def",
+    "author": "David Bazbal and Falchion22, edited by Alejoma",
+    "notes": "Extract the password-protected RAR manually with the public archive password joeydukepes. Install only the specified character folder."
+  },
+  "alejoma/lee-sf1-remake": {
+    "id": "sf1-lee-remake",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/i6wc6ct4bf2fodq/sf-lee.rar/file",
+    "subpath": "A-Lee",
+    "def": "A-Lee.def",
+    "author": "David Bazbal and Falchion22, edited by Alejoma",
+    "notes": "Extract the password-protected RAR manually with the public archive password aleejoma. Install only the specified character folder."
+  },
+  "alejoma/mike-sf1-remake": {
+    "id": "sf1-mike-remake",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/pj2z0c10xa04mdp/sf-mike.rar/file",
+    "subpath": "A-Mike",
+    "def": "A-Mike.def",
+    "author": "David Bazbal and Falchion22, edited by Alejoma",
+    "notes": "Extract the password-protected RAR manually with the public archive password alejomapesmike1. Install only the specified character folder."
+  },
+  "alejoma/retsu-sf1-remake": {
+    "id": "sf1-retsu-remake",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/pwr1lmwj4ds77go/sf-retsu.rar/file",
+    "subpath": "A-Retsu",
+    "def": "A-Retsu.def",
+    "author": "David Bazbal and Falchion22, edited by Alejoma",
+    "notes": "Extract the password-protected RAR manually with the public archive password retsupes6. Install only the specified character folder."
+  },
   "alexlexus/gouken-sf3": {
     "author": "Alexlexus (helpers Liger and Blood Riot)",
     "def": "gouken.def",
