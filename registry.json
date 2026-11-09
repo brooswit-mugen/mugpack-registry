@@ -96,6 +96,46 @@
     "type": "char",
     "url": "https://www.mediafire.com/file/cc4ur9jotszxqqw/Goutetsu.zip/file"
   },
+  "falchion22/geki-sf1": {
+    "author": "CWDEVINE & Falchion22",
+    "def": "Geki SF1.def",
+    "id": "sf1-geki",
+    "subpath": "Geki SF1",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/790028"
+  },
+  "falchion22/joe-sf1": {
+    "author": "Falchion22",
+    "def": "Joe SF1.def",
+    "id": "sf1-joe",
+    "subpath": "Joe SF1",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/789740"
+  },
+  "falchion22/lee-sf1": {
+    "author": "Falchion22",
+    "def": "Lee SF1.def",
+    "id": "sf1-lee",
+    "subpath": "Lee SF1",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/789737"
+  },
+  "falchion22/mike-sf1": {
+    "author": "Falchion22",
+    "def": "Mike SF1.def",
+    "id": "sf1-mike",
+    "subpath": "Mike SF1",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/789741"
+  },
+  "falchion22/retsu-sf1": {
+    "author": "Falchion22",
+    "def": "Retsu SF1.def",
+    "id": "sf1-retsu",
+    "subpath": "Retsu SF1",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/789733"
+  },
   "flowagirl/yun-sf3": {
     "author": "FlowaGirl",
     "id": "sf3-yun",
