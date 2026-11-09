@@ -1,12 +1,93 @@
 {
-  "alexlexus/gouken-sf3": {
-    "id": "sf3-gouken",
+  "adamskie/cammy-sfa": {
+    "author": "adamskie",
+    "def": "Cammy SFA.def",
+    "id": "sfa-cammy",
+    "subpath": "Cammy SFA",
     "type": "char",
-    "url": "https://www.mediafire.com/file/sc8jhdmofsc84p9/Gouken+(1).rar/file",
-    "subpath": "Gouken",
-    "def": "gouken.def",
+    "url": "https://gamebanana.com/dl/791100"
+  },
+  "adamskie/charlie-sfa": {
+    "author": "Adamskie",
+    "def": "Charlie SFA.def",
+    "id": "sfa-charlie",
+    "subpath": "Charlie SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791038"
+  },
+  "adamskie/sakura-sfa": {
+    "author": "adamskie",
+    "def": "Sakura SFA.def",
+    "id": "sfa-sakura",
+    "subpath": "Sakura SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791063"
+  },
+  "alexlexus/gouken-sf3": {
     "author": "Alexlexus (helpers Liger and Blood Riot)",
-    "notes": "For M.U.G.E.N. 1.1, disable the two invalid legacy trigger1 = null controllers in common1.cns by changing their triggers to 0. The archive contains the original, unpatched build."
+    "def": "gouken.def",
+    "id": "sf3-gouken",
+    "notes": "For M.U.G.E.N. 1.1, disable the two invalid legacy trigger1 = null controllers in common1.cns by changing their triggers to 0. The archive contains the original, unpatched build.",
+    "subpath": "Gouken",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/sc8jhdmofsc84p9/Gouken+(1).rar/file"
+  },
+  "basara-kun/eagle-sfa": {
+    "author": "Meta Gouki + Arma_X + N-Mario + Basara-kun",
+    "def": "Eagle SFA.def",
+    "id": "sfa-eagle",
+    "subpath": "Eagle SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791116"
+  },
+  "beximus/ingrid-sfa": {
+    "author": "Beximus",
+    "def": "ingrid.def",
+    "id": "sfa-ingrid",
+    "notes": "Capcom Fighting Evolution sprites with Marvel-style gameplay.",
+    "subpath": "ingrid",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/r8dtzbm349grng4/Ingrid_%5BBeximus%5D.zip/file"
+  },
+  "death-smile/juli-sfa": {
+    "author": "Death Smile",
+    "def": "Juli SFA.def",
+    "id": "sfa-juli",
+    "subpath": "Juli SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791111"
+  },
+  "ehnyd/dhalsim-sfa": {
+    "author": "Ehnyd",
+    "def": "Dhalsim SFA.def",
+    "id": "sfa-dhalsim",
+    "subpath": "Dhalsim SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791059"
+  },
+  "ehnyd/guile-sfa": {
+    "author": "Ehnyd",
+    "def": "Guile SFA.def",
+    "id": "sfa-guile",
+    "subpath": "Guile SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791101"
+  },
+  "ehnyd/guy-sfa": {
+    "author": "Ehnyd",
+    "def": "Guy SFA.def",
+    "id": "sfa-guy",
+    "subpath": "Guy SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791040"
+  },
+  "ehnyd/rose-sfa": {
+    "author": "Ehnyd",
+    "def": "Rose SFA.def",
+    "id": "sfa-rose",
+    "subpath": "Rose SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791056"
   },
   "failure/goutetsu-sf3": {
     "author": "Failure",
@@ -21,6 +102,14 @@
     "subpath": "Yun SF3",
     "type": "char",
     "url": "https://gamebanana.com/dl/792142"
+  },
+  "gargoyle/e-honda-sfa": {
+    "author": "Gargoyle",
+    "def": "E.Honda SFA.def",
+    "id": "sfa-e-honda",
+    "subpath": "E.Honda SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791086"
   },
   "gm/akuma-sf3": {
     "author": "GM",
@@ -64,6 +153,22 @@
     "type": "char",
     "url": "https://gamebanana.com/dl/792146"
   },
+  "gou-san-beto/cody-sfa": {
+    "author": "Gou-San + Beto",
+    "def": "Cody SFA.def",
+    "id": "sfa-cody",
+    "subpath": "Cody SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791093"
+  },
+  "h/adon-sfa": {
+    "author": "H\"",
+    "def": "Adon SFA.def",
+    "id": "sfa-adon",
+    "subpath": "Adon SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791053"
+  },
   "homura/remy-sf3": {
     "author": "Homura",
     "id": "sf3-remy",
@@ -99,12 +204,53 @@
     "type": "char",
     "url": "https://gamebanana.com/dl/792191"
   },
+  "jin-kazama/birdie-sfa": {
+    "author": "Jin Kazama",
+    "def": "Birdie SFA.def",
+    "id": "sfa-birdie",
+    "subpath": "Birdie SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791042"
+  },
+  "knuckles8864/maki-sfa": {
+    "author": "Knuckles8864",
+    "def": "Maki.def",
+    "id": "sfa-maki",
+    "notes": "Capcom vs. SNK 2 sprites with POTS-style gameplay.",
+    "subpath": "Maki",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/ms5bbg61ngmwq1d/Maki.rar/file"
+  },
   "mazemerald/effie-sf3": {
     "author": "Mazemerald",
     "id": "sf3-effie",
     "subpath": "EFFIE",
     "type": "char",
     "url": "https://www.mediafire.com/file/x7a7rw5srmazfaw/EFFIE.rar/file"
+  },
+  "mmr/juni-sfa": {
+    "author": "M.M.R.",
+    "def": "Juni SFA.def",
+    "id": "sfa-juni",
+    "subpath": "Juni SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791112"
+  },
+  "mmr/vega-sfa": {
+    "author": "M.M.R.",
+    "def": "Vega SFA.def",
+    "id": "sfa-vega",
+    "subpath": "Vega SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791096"
+  },
+  "mmr/zangief-sfa": {
+    "author": "M.M.R.",
+    "def": "Zangief SFA.def",
+    "id": "sfa-zangief",
+    "subpath": "Zangief SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791070"
   },
   "muteki/chun-li-sf3": {
     "author": "muteki",
@@ -119,6 +265,38 @@
     "subpath": "Sean SF3",
     "type": "char",
     "url": "https://gamebanana.com/dl/792178"
+  },
+  "n64mario/balrog-sfa": {
+    "author": "N64Mario",
+    "def": "Balrog SFA.def",
+    "id": "sfa-balrog",
+    "subpath": "Balrog SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791109"
+  },
+  "n64mario/dee-jay-sfa": {
+    "author": "N64Mario",
+    "def": "Deejay SFA.def",
+    "id": "sfa-dee-jay",
+    "subpath": "Deejay SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791106"
+  },
+  "n64mario/fei-long-sfa": {
+    "author": "N64Mario",
+    "def": "Fei-Long SFA.def",
+    "id": "sfa-fei-long",
+    "subpath": "Fei-Long SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791103"
+  },
+  "n64mario/t-hawk-sfa": {
+    "author": "N64Mario",
+    "def": "T.Hawk SFA.def",
+    "id": "sfa-t-hawk",
+    "subpath": "T.Hawk SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791113"
   },
   "neji/gouken-sf3": {
     "author": "Neji",
@@ -157,12 +335,44 @@
     "type": "char",
     "url": "https://gamebanana.com/dl/792182"
   },
+  "ryon/karin-sfa": {
+    "author": "Ryon",
+    "def": "Karin SFA.def",
+    "id": "sfa-karin",
+    "subpath": "Karin SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791095"
+  },
   "saito/ken-sf3": {
     "author": "ikuzeexodia aka Saito",
     "id": "sf3-ken",
     "subpath": "Ken_SF3",
     "type": "char",
     "url": "https://www.mediafire.com/file/d7o3vdxb1i6316y/Ken_%5BSaito%5D.zip/file"
+  },
+  "splode/sodom-sfa": {
+    "author": "Splode",
+    "def": "Sodom SFA.def",
+    "id": "sfa-sodom",
+    "subpath": "Sodom SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791047"
+  },
+  "tenshin/rolento-sfa": {
+    "author": "Tenshin",
+    "def": "Rolento SFA.def",
+    "id": "sfa-rolento",
+    "subpath": "Rolento SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791064"
+  },
+  "the-necromancer/m-bison-sfa": {
+    "author": "The Necromancer",
+    "def": "M.Bison SFA.def",
+    "id": "sfa-m-bison",
+    "subpath": "M.Bison SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791076"
   },
   "tin/dudley-sf3": {
     "author": "Tin",
@@ -191,5 +401,21 @@
     "subpath": "Q SF3",
     "type": "char",
     "url": "https://gamebanana.com/dl/792151"
+  },
+  "wani-shimamura/gen-sfa": {
+    "author": "Wani_Shimamura",
+    "def": "Gen SFA.def",
+    "id": "sfa-gen",
+    "subpath": "Gen SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791061"
+  },
+  "zero-sennin/r-mika-sfa": {
+    "author": "Zero-Sennin",
+    "def": "R.Mika SFA.def",
+    "id": "sfa-r-mika",
+    "subpath": "R.Mika SFA",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/791085"
   }
 }
