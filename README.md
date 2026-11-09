@@ -17,3 +17,7 @@ Stage packs live at `stage/<author>/<stage>.json` and use references like
 
 Author metadata lives at `author/<author>.json`. Its `links` array contains
 typed homepage, profile, social, or release links where available.
+
+Optional resources use the same layout under `screenpack/`, `lifebar/`,
+`font/`, `music/`, `portrait/`, `ai-patch/`, and `storyboard/`. Reference
+them as `type/author/package`.

@@ -1,0 +1,8 @@
+{
+  "id": "neogouki-field",
+  "type": "stage",
+  "url": "https://ngmc.retrogames.com/stages/field.zip",
+  "subpath": "",
+  "author": "NeoGouki",
+  "def": "field.def"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "neogouki-showdown",
+  "type": "stage",
+  "url": "https://ngmc.retrogames.com/stages/showdown.zip",
+  "subpath": "",
+  "author": "NeoGouki",
+  "def": "showdown.def"
+}
