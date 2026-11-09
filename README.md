@@ -11,3 +11,9 @@ items:
 
 Use lowercase names for both path segments. To add or update a build, edit
 its manifest directly.
+
+Stage packs live at `stage/<author>/<stage>.json` and use references like
+`stage/neogouki/suzaku`. Both pack types link to the original archive.
+
+Author metadata lives at `author/<author>.json`. Its `links` array contains
+typed homepage, profile, social, or release links where available.

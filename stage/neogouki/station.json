@@ -1,0 +1,8 @@
+{
+  "id": "neogouki-station",
+  "type": "stage",
+  "author": "NeoGouki",
+  "url": "https://ngmc.retrogames.com/stages/station.zip",
+  "subpath": "",
+  "def": "station.def"
+}
