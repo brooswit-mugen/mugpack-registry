@@ -1,0 +1,8 @@
+{
+  "id": "neogouki-cargo",
+  "type": "stage",
+  "author": "NeoGouki",
+  "url": "https://ngmc.retrogames.com/stages/cargo.zip",
+  "subpath": "",
+  "def": "cargo.def"
+}
