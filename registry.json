@@ -1,9 +1,143 @@
 {
-  "gm/ryu-sf3": {
-    "id": "sf3-ryu",
+  "flowagirl/yun-sf3": {
+    "author": "FlowaGirl",
+    "id": "sf3-yun",
+    "subpath": "Yun SF3",
     "type": "char",
-    "url": "https://gamebanana.com/dl/792146",
+    "url": "https://gamebanana.com/dl/792142"
+  },
+  "gm/akuma-sf3": {
+    "author": "GM",
+    "id": "sf3-akuma",
+    "subpath": "Akuma SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792141"
+  },
+  "gm/alex-sf3": {
+    "author": "GM",
+    "id": "sf3-alex",
+    "subpath": "Alex SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792188"
+  },
+  "gm/gill-sf3": {
+    "author": "GM",
+    "id": "sf3-gill",
+    "subpath": "Gill SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792194"
+  },
+  "gm/hugo-sf3": {
+    "author": "GM",
+    "id": "sf3-hugo",
+    "subpath": "Hugo SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792177"
+  },
+  "gm/ibuki-sf3": {
+    "author": "GM",
+    "id": "sf3-ibuki",
+    "subpath": "Ibuki SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792174"
+  },
+  "gm/ryu-sf3": {
+    "author": "GM",
+    "id": "sf3-ryu",
     "subpath": "Ryu SF3",
-    "author": "GM"
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792146"
+  },
+  "homura/remy-sf3": {
+    "author": "Homura",
+    "id": "sf3-remy",
+    "subpath": "Remy SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792155"
+  },
+  "intense-mc/yang-sf3": {
+    "author": "intense_mc",
+    "id": "sf3-yang",
+    "subpath": "Yang SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792191"
+  },
+  "muteki/chun-li-sf3": {
+    "author": "muteki",
+    "id": "sf3-chun-li",
+    "subpath": "Chun-Li SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792170"
+  },
+  "muteki/sean-sf3": {
+    "author": "muteki",
+    "id": "sf3-sean",
+    "subpath": "Sean SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792178"
+  },
+  "nhk/makoto-sf3": {
+    "author": "NHK",
+    "id": "sf3-makoto",
+    "subpath": "Makoto SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792175"
+  },
+  "phirmost/elena-sf3": {
+    "author": "Phirmost",
+    "id": "sf3-elena",
+    "subpath": "Elena SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792173"
+  },
+  "rajaaboy/urien-sf3": {
+    "author": "RajaaBoy",
+    "id": "sf3-urien",
+    "subpath": "Urien SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792149"
+  },
+  "rei/twelve-sf3": {
+    "author": "rei",
+    "def": "Twelve SF3.def",
+    "id": "sf3-twelve",
+    "subpath": "Twelve SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792182"
+  },
+  "saito/ken-sf3": {
+    "author": "ikuzeexodia aka Saito",
+    "id": "sf3-ken",
+    "subpath": "Ken_SF3",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/d7o3vdxb1i6316y/Ken_%5BSaito%5D.zip/file"
+  },
+  "tin/dudley-sf3": {
+    "author": "Tin",
+    "id": "sf3-dudley",
+    "subpath": "Dudley SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792152"
+  },
+  "umihei/necro-sf3": {
+    "author": "Umihei",
+    "id": "sf3-necro",
+    "subpath": "Necro SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792168"
+  },
+  "umihei/oro-sf3": {
+    "author": "Umihei",
+    "id": "sf3-oro",
+    "subpath": "Oro SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792162"
+  },
+  "umihei/q-sf3": {
+    "author": "Umihei",
+    "id": "sf3-q",
+    "subpath": "Q SF3",
+    "type": "char",
+    "url": "https://gamebanana.com/dl/792151"
   }
 }
