@@ -1,4 +1,11 @@
 {
+  "failure/goutetsu-sf3": {
+    "author": "Failure",
+    "id": "sf3-goutetsu",
+    "subpath": "",
+    "type": "char",
+    "url": "https://www.mediafire.com/file/cc4ur9jotszxqqw/Goutetsu.zip/file"
+  },
   "flowagirl/yun-sf3": {
     "author": "FlowaGirl",
     "id": "sf3-yun",
