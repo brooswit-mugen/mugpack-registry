@@ -55,6 +55,27 @@
     "type": "char",
     "url": "https://gamebanana.com/dl/792155"
   },
+  "iatemysink/blanka-sf3": {
+    "author": "IAteMySink (FeetRShoes), sprites by Chuchoryu",
+    "id": "sf3-blanka",
+    "subpath": "SF3_Blanka_FRS",
+    "type": "char",
+    "url": "https://drive.usercontent.google.com/download?id=12SApW7Z-3CQ8v1hW6COIEIx68uUZQywc&export=download&confirm=t"
+  },
+  "iatemysink/dan-sf3": {
+    "author": "IAteMySink",
+    "id": "sf3-dan",
+    "subpath": "SF3_Dan_IAMS",
+    "type": "char",
+    "url": "https://drive.usercontent.google.com/download?id=1sId8flm6Ul92dITeBo627ZIw2zhNziSb&export=download&confirm=t"
+  },
+  "iatemysink/sagat-sf3": {
+    "author": "Vegeta 20xx, edited by AuMiO VXC and IAteMySink",
+    "id": "sf3-sagat",
+    "subpath": "sagat_sf3",
+    "type": "char",
+    "url": "https://drive.usercontent.google.com/download?id=14O2dXrgJx4B3h8SpMD2w8RlsCI0q9z4s&export=download&confirm=t"
+  },
   "intense-mc/yang-sf3": {
     "author": "intense_mc",
     "id": "sf3-yang",
