@@ -102,6 +102,70 @@
     "type": "char",
     "url": "https://www.mediafire.com/file/r8dtzbm349grng4/Ingrid_%5BBeximus%5D.zip/file"
   },
+  "chuchoryu/abel-sf4": {
+    "id": "sf4-abel",
+    "type": "char",
+    "author": "Chuchoryu",
+    "url": "https://gamebanana.com/dl/794269",
+    "subpath": "Abel SF4",
+    "def": "Abel SF4.def"
+  },
+  "chuchoryu/el-fuerte-sf4": {
+    "id": "sf4-el-fuerte",
+    "type": "char",
+    "author": "Chuchoryu",
+    "url": "https://gamebanana.com/dl/794292",
+    "subpath": "El Fuerte SF4",
+    "def": "El Fuerte SF4.def"
+  },
+  "chuchoryu/falke-sfv": {
+    "id": "sfv-falke",
+    "type": "char",
+    "author": "Chuchoryu",
+    "url": "https://gamebanana.com/dl/795806",
+    "subpath": "Falke SF5",
+    "def": "Falke SF5.def"
+  },
+  "chuchoryu/hakan-sf4": {
+    "id": "sf4-hakan",
+    "type": "char",
+    "author": "Chuchoryu",
+    "url": "https://gamebanana.com/dl/794279",
+    "subpath": "Hakan SF4",
+    "def": "Hakan SF4.def"
+  },
+  "chuchoryu/kolin-sfv": {
+    "id": "sfv-kolin",
+    "type": "char",
+    "author": "Chuchoryu",
+    "url": "https://www.mediafire.com/file/bzmkrzdayc6qd5b/CFJ_Kolin.rar/file",
+    "subpath": "CFJ_Kolin",
+    "def": "CFJ_Kolin.def"
+  },
+  "chuchoryu/menat-sfv": {
+    "id": "sfv-menat",
+    "type": "char",
+    "author": "Chuchoryu",
+    "url": "https://gamebanana.com/dl/795819",
+    "subpath": "Menat SF5",
+    "def": "Menat SF5.def"
+  },
+  "chuchoryu/necalli-sfv": {
+    "id": "sfv-necalli",
+    "type": "char",
+    "author": "Chuchoryu",
+    "url": "https://gamebanana.com/dl/795861",
+    "subpath": "Necalli SF5",
+    "def": "Necalli SF5.def"
+  },
+  "chuchoryu/rashid-sfv": {
+    "id": "sfv-rashid",
+    "type": "char",
+    "author": "Chuchoryu",
+    "url": "https://gamebanana.com/dl/795834",
+    "subpath": "Rashid SF5",
+    "def": "Rashid SF5.def"
+  },
   "cormano/abigail": {
     "author": "Poochmaster and Chuchoryu, fixes by Cormano",
     "def": "Abigail 2.def",
@@ -142,6 +206,14 @@
     "subpath": "Poison",
     "type": "char",
     "url": "https://www.mediafire.com/file/g1oltrpdfa7br6d/Poison.rar/file"
+  },
+  "diek-stiekem/seth-sf4": {
+    "id": "sf4-seth",
+    "type": "char",
+    "author": "Human, Mr. Karate, RagingRowen and Diek Stiekem",
+    "url": "https://www.mediafire.com/file/pp0qbjivryup9hn/Seth.rar/file",
+    "subpath": "Seth",
+    "def": "Seth.def"
   },
   "ehnyd/dhalsim-sfa": {
     "author": "Ehnyd",
@@ -386,6 +458,14 @@
     "type": "char",
     "url": "https://gamebanana.com/dl/791070"
   },
+  "mr-i/rufus-sf4": {
+    "id": "sf4-rufus",
+    "type": "char",
+    "author": "Mr. I",
+    "url": "https://www.mediafire.com/file/981pt2v2xbdl3to/Rufus_SSF4_2014-02-21.rar/file",
+    "subpath": "Rufus_SSF4",
+    "def": "Rufus_SSF4.def"
+  },
   "muteki/chun-li-sf3": {
     "author": "muteki",
     "id": "sf3-chun-li",
@@ -432,6 +512,14 @@
     "type": "char",
     "url": "https://gamebanana.com/dl/791113"
   },
+  "ndsilva/c-viper-sf4": {
+    "id": "sf4-c-viper",
+    "type": "char",
+    "author": "Megamaze and NDSilva",
+    "url": "https://gamebanana.com/dl/794272",
+    "subpath": "C.Viper SF4",
+    "def": "C.Viper SF4.def"
+  },
   "neji/gouken-sf3": {
     "author": "Neji",
     "def": "Gouken-Playable.def",
@@ -439,6 +527,14 @@
     "subpath": "Gouken",
     "type": "char",
     "url": "https://www.mediafire.com/file/ekkk2vwvpkdpu0m/Gouken.rar/file"
+  },
+  "nexus-games/akira-sfv": {
+    "id": "sfv-akira",
+    "type": "char",
+    "author": "Nexus Gaming",
+    "url": "https://www.mediafire.com/file/71gladewxtvxojd/Akira+Kazama+Update.rar/file",
+    "subpath": "Akira",
+    "def": "Akira.def"
   },
   "nhk/makoto-sf3": {
     "author": "NHK",
@@ -453,6 +549,14 @@
     "subpath": "Elena SF3",
     "type": "char",
     "url": "https://gamebanana.com/dl/792173"
+  },
+  "prime-sc/juri-sf4": {
+    "id": "sf4-juri",
+    "type": "char",
+    "author": "Chuchoryu and Prime SC",
+    "url": "https://www.mediafire.com/file/1io2q03cks2jom2/Juri.zip/file",
+    "subpath": "Juri",
+    "def": "Juri.def"
   },
   "rajaaboy/urien-sf3": {
     "author": "RajaaBoy",
@@ -536,6 +640,14 @@
     "type": "char",
     "url": "https://gamebanana.com/dl/792151"
   },
+  "varo-hades/decapre-sf4": {
+    "id": "sf4-decapre",
+    "type": "char",
+    "author": "Varo Hades",
+    "url": "https://www.mediafire.com/file/ar565f1dznlb1xv/Decapre+varo.rar/file",
+    "subpath": "Decapre",
+    "def": "Decapre.def"
+  },
   "wani-shimamura/gen-sfa": {
     "author": "Wani_Shimamura",
     "def": "Gen SFA.def",
@@ -543,6 +655,14 @@
     "subpath": "Gen SFA",
     "type": "char",
     "url": "https://gamebanana.com/dl/791061"
+  },
+  "wildshark/ed-sfv": {
+    "id": "sfv-ed",
+    "type": "char",
+    "author": "Chuchoryu and Wildshark",
+    "url": "https://www.mediafire.com/file/7v48p0wiphf1hud/-MKvsSF-Ed.zip/file",
+    "subpath": "-MKvsSF-Ed",
+    "def": "CFJ_Ed.def"
   },
   "zero-sennin/r-mika-sfa": {
     "author": "Zero-Sennin",
